@@ -1,0 +1,39 @@
+{
+  "candidatos": [
+    {
+      "numero": 10,
+      "nome": "Candidato A",
+      "votos": 19
+    },
+    {
+      "numero": 20,
+      "nome": "Candidato B",
+      "votos": 0
+    },
+    {
+      "numero": 30,
+      "nome": "Candidato C",
+      "votos": 0
+    }
+  ],
+  "eleitores": [
+    {
+      "nome": "Eleitor A",
+      "usuario": "eleitorA",
+      "senha": "123",
+      "votou": "False"
+    },
+    {
+      "nome": "Eleitor B",
+      "usuario": "eleitorB",
+      "senha": "123",
+      "votou": "False"
+    },
+    {
+      "nome": "Eleitor C",
+      "usuario": "eleitorC",
+      "senha": "123",
+      "votou": "False"
+    }
+  ]
+}
