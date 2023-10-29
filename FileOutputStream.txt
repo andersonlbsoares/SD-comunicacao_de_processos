@@ -1,0 +1,4 @@
+ tamanhoNomePessoa: 4.0
+ nomePessoa: Joao
+ cpf: 1.23456789E8
+ idade: 20
