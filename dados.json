@@ -3,17 +3,17 @@
     {
       "numero": 10,
       "nome": "Candidato A",
-      "votos": 19
+      "votos": 4
     },
     {
       "numero": 20,
       "nome": "Candidato B",
-      "votos": 0
+      "votos": 3
     },
     {
       "numero": 30,
       "nome": "Candidato C",
-      "votos": 0
+      "votos": 1
     }
   ],
   "eleitores": [
